@@ -35,7 +35,7 @@ prime-check-api/
 ### 1. Clone or Create Project
 
 ```bash
-git clone https://github.com/yourusername/prime-check-api.git
+git clone https://github.com/manas284/prime-check-api.git
 cd prime-check-api
 ```
 
